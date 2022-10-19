@@ -1,0 +1,12 @@
+endpoint: "https://maru.admaru.com/AdCall"
+disabled: false
+maintainer:
+  email: m4292007@gmail.com
+modifyingVastXmlAllowed: true
+capabilities:
+  app:
+    mediaTypes:
+      - banner
+  site:
+    mediaTypes:
+      - banner

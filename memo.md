@@ -20,4 +20,25 @@ https://github.com/prebid/prebid-server/issues/589
 
 How solve it? gdpr.default_value #1897
 https://github.com/prebid/prebid-server/issues/1897
+PBS_GDPR_TIMEOUTS_MS_INIT_VENDORLIST_FETCHES
+PBS_GDPR_TIMEOUTS_MS_ACTIVE_VENDORLIST_FETCH
+pbs.yaml
+gdpr:
+timeouts_ms:
+init_vendorlist_fetches: 5000
+active_vendorlist_fetch: 5000
+
+* https://github.com/prebid/prebid-server/issues/690
+  https://github.com/prebid/prebid-server/issues/984
+https://github.com/prebid/Prebid.js/issues/8668
+  https://github.com/prebid/prebid.github.io/blob/master/faq/prebid-server-faq.md
+
+## 설정 ##
+* https://github.com/spf13/viper#why-viper
+
+
+
+## 테스트 ##
+https://go.dev/doc/articles/race_detector
+https://github.com/prebid/prebid-server/blob/master/adapters/adapterstest/test_json.go
 

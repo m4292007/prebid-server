@@ -1,0 +1,16 @@
+static/bidder-info/{bidder}.yaml
+static/bidder-params/{bidder}.json
+openrtb_ext/imp_{bidder}.go
+adapters/{bidder}/params_test.go
+adapters/{bidder}/{bidder}.go
+adapters/{bidder}/{bidder}_test.go
+adapters/{bidder}/{bidder}test/exemplary/*.json
+adapters/{bidder}/{bidder}test/supplemental/*.json
+openrtb_ext/bidders.go
+exchange/adapter_builders.go
+-------------
+
+
+
+	AdSpaceID  string `json:"adspaceid"`
+	PubID string `json:"pubid"`

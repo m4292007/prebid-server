@@ -87,6 +87,7 @@ const (
 	BidderAcuityAds         BidderName = "acuityads"
 	BidderAdf               BidderName = "adf"
 	BidderAdform            BidderName = "adform"
+	BidderAdmaru            BidderName = "admaru"
 	BidderAdgeneration      BidderName = "adgeneration"
 	BidderAdhese            BidderName = "adhese"
 	BidderAdkernel          BidderName = "adkernel"
@@ -255,6 +256,7 @@ func CoreBidderNames() []BidderName {
 		BidderAdkernel,
 		BidderAdkernelAdn,
 		BidderAdman,
+		BidderAdmaru,
 		BidderAdmixer,
 		BidderAdnuntius,
 		BidderAdOcean,

@@ -1,2 +1,5 @@
 gdpr:
   default_value: "0"
+  timeouts_ms:
+    init_vendorlist_fetches: 5000
+    active_vendorlist_fetch: 5000

@@ -118,7 +118,7 @@ func getPartnerId(request *openrtb2.BidRequest) (string, []error) {
 
 func checkBidderParameter(ext ExtBidderAdmaru) []error {
 	var errs = []error{}
-	if len(ext.Bidder.PartnerId) == 0 || len(ext.Bidder.AdUnitId) == 0 {
+	if len(ext.Bidder.PubID) == 0 || len(ext.Bidder.AdSpaceID) == 0 {
 		errs = append(errs, fmt.Errorf("No PartnerId or AdUnitId in the bid request\n"))
 		return errs
 	}

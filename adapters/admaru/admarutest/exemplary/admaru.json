@@ -21,16 +21,16 @@
         "topframe": 1
       },
       "instl": 0,
-      "displaymanager": "aralego.com",
+      "displaymanager": "admaru.com",
       "displaymanagerver": "v1.0.0",
       "secure": 0,
       "bidfloor": 0.01,
       "bidfloorcur": "USD",
       "exp": 3600,
       "ext":{
-        "ucfunnel":{
-          "adunitid": "test-ad-83444226E44368D1E32E49EEBE6D29",
-          "partnerid": "par-2EDDB423AA24474188B843EE4842932"
+        "admaru":{
+          "adspaceid": "test-ad-83444226E44368D1E32E49EEBE6D29",
+          "pubid": "par-2EDDB423AA24474188B843EE4842932"
         }
       }
     }
@@ -92,7 +92,7 @@
         "ver": "1.0",
         "nodes": [
           {
-            "asi": "aralego.com",
+            "asi": "admaru.com",
             "sid": "par-7E6D2DB9A8922AB07B44A444D2BA67",
             "rid": "c8f800c2-d285-4cb9-8fc9-f95df52f6e0c",
             "hp": 1

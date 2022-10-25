@@ -39,6 +39,32 @@ https://github.com/prebid/Prebid.js/issues/8668
 
 
 ## 테스트 ##
+*** https://github.com/prebid/prebid-server/issues/1409
+
 https://go.dev/doc/articles/race_detector
 https://github.com/prebid/prebid-server/blob/master/adapters/adapterstest/test_json.go
 
+https://docs.prebid.org/prebid-server/endpoints/pbs-endpoint-overview.html
+https://github.com/prebid/prebid-server-java/releases
+https://docs.prebid.org/prebid-server/endpoints/openrtb2/pbs-endpoint-auction.html
+https://github.com/prebid/prebid-server/blob/master/docs/developers/stored-requests.md
+https://docs.prebid.org/prebid-server/features/pbs-storedreqs.html
+https://github.com/prebid/prebid-server-java/pull/2038/files
+https://docs.prebid.org/prebid-server/endpoints/pbs-endpoint-event.html
+https://developers.smaato.com/marketers/openrtb-2-5-specifications/
+https://support.google.com/authorizedbuyers/answer/7174589?hl=en
+https://docs.prebid.org/prebid-mobile/prebid-mobile-pbs.html
+https://docs.prebid.org/examples/video/server/ooyala/pbs-ve-ooyala.html
+https://github.com/prebid/prebid-server-java/blob/master/README.md
+https://docs.prebid.org/prebid-server/endpoints/openrtb2/pbs-endpoint-amp.html
+
+
+
+https://github.com/prebid/prebid-server/issues/350
+https://docs.prebid.org/dev-docs/modules/pubCommonId.html
+https://docs.prebid.org/prebid-server/developers/pbs-cookie-sync.html#devquickstart
+
+
+
+https://github.com/prebid/prebid-server/issues/1341
+https://github.com/prebid/prebid-server-java/issues/338

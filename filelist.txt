@@ -14,3 +14,5 @@ exchange/adapter_builders.go
 
 	AdSpaceID  string `json:"adspaceid"`
 	PubID string `json:"pubid"`
+https://github.com/prebid/prebid-server-java/issues/1830
+https://github.com/prebid/prebid-server-java/issues/1830

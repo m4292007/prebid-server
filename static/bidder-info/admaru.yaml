@@ -1,4 +1,6 @@
-endpoint: "https://maru.admaru.com/AdCall"
+#endpoint: "https://maru.admaru.com/AdCall"
+#endpoint: "http://pbs.admaru.net:8080/dspmock/Req"
+endpoint: "http://localhost:8080/ssp"
 disabled: false
 maintainer:
   email: m4292007@gmail.com

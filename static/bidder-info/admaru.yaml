@@ -1,5 +1,5 @@
 #endpoint: "https://maru.admaru.com/AdCall"
-endpoint: "http://p1.admaru.net/ssp"
+endpoint: "http://p1.admaru.net:8080/ssp"
 #endpoint: "http://localhost:8080/ssp"
 disabled: false
 maintainer:
